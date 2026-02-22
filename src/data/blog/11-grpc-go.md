@@ -2,7 +2,7 @@
 title: "gRPC 在 Go 微服务中的实战"
 author: Tu
 pubDatetime: 2024-10-11T10:00:00Z
-featured: false
+featured: true
 draft: false
 tags:
   - Go

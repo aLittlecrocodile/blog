@@ -2,7 +2,7 @@
 title: "MySQL 索引优化实战笔记"
 author: Tu
 pubDatetime: 2024-09-05T10:00:00Z
-featured: false
+featured: true
 draft: false
 tags:
   - MySQL

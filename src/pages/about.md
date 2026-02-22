@@ -3,35 +3,31 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## 关于我
 
-![Astro Paper](public/astropaper-og.jpg)
+我是王奥运，Go 后端开发者，方向为高并发服务与系统设计，目前正在备战 2026 春招。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## 技术栈
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+**语言**：Go、SQL、Shell
 
-## Features
+**Web 框架**：Gin、net/http
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+**存储**：MySQL、Redis、MongoDB
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+**中间件**：Kafka、RabbitMQ、gRPC、Protobuf
 
-and so much more.
+**工具链**：Docker、Kubernetes、Git、Linux
 
-## Show your support
+## 这个博客写什么
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+- **Go 语言原理**：Goroutine 调度、GC、内存模型、Channel 实现
+- **数据库优化**：MySQL 索引、事务、慢查询、分库分表
+- **分布式系统**：分布式锁、一致性协议、消息队列
+- **系统设计**：高并发架构、缓存策略、限流降级
+- **面试备战**：常见考点梳理与深度解析
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+## 联系我
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+- GitHub: [github.com/aLittlecrocodile](https://github.com/aLittlecrocodile)
+- Email: [aooway@yeah.net](mailto:aooway@yeah.net)

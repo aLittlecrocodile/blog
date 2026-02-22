@@ -2,7 +2,7 @@
 title: "理解 Goroutine 与 Channel 的并发模型"
 author: Tu
 pubDatetime: 2024-06-28T10:00:00Z
-featured: false
+featured: true
 draft: false
 tags:
   - Go

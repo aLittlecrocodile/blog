@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://blog-five-pi-20.vercel.app/",
-  author: "Tu",
-  profile: "https://github.com/",
+  author: "王奥运",
+  profile: "https://github.com/aLittlecrocodile",
   desc: "Go 后端开发 · 技术笔记",
   title: "Tu's Blog",
   ogImage: "astropaper-og.jpg",
