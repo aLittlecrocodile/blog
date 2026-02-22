@@ -3,7 +3,7 @@ export const SITE = {
   author: "王奥运",
   profile: "https://github.com/aLittlecrocodile",
   desc: "Go 后端开发 · 技术笔记",
-  title: "Tu's Blog",
+  title: "奥运的 Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 6,
