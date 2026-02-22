@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://tu-blog.vercel.app/",
+  website: "https://blog-five-pi-20.vercel.app/",
   author: "Tu",
   profile: "https://github.com/",
   desc: "Go 后端开发 · 技术笔记",
